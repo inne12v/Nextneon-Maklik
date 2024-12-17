@@ -1,7 +1,7 @@
 # Nextneon-Maklik
 This is still in beta testing. Do not use this as an daily driver.
 
-
+<h1>Intro</h1>
 
 Welcome to Nextneon Maklik.
 I build an Linux distro based on Ubuntu using Cubic.
@@ -14,6 +14,8 @@ Because i use an compression format which has results in really big iso's, you g
 For the real source (because i just changed things in the terminal) check out: https://github.com/ubuntu
 It's theme is changing. I am working on arcmenu and dash-to-panel.
 It's now straight-out an ubuntu theme, but i am tweaking it to a more windows-like experience, but i am keeping the dock on the dock.
+![alt text](https://photos.fife.usercontent.google.com/pw/AP1GczOfMO0WBK3YYc4NoHV1TTwMxkx3lJykn5cZICe4yHPZA6_YUIewAxfz=w1276-h797-s-no?authuser=1)
+![alt text](https://photos.fife.usercontent.google.com/pw/AP1GczOfMO0WBK3YYc4NoHV1TTwMxkx3lJykn5cZICe4yHPZA6_YUIewAxfz=w1276-h797-s-no?authuser=1)
 
 download it on: https://mega.nz/file/6VMWwZyI#YzO2DyiUhCRFcmc1llU4Fyry6OX5r-tX0dPadCxP8Hc
 
