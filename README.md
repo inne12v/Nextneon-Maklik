@@ -14,6 +14,7 @@ Because i use an compression format which has results in really big iso's, you g
 For the real source (because i just changed things in the terminal) check out: https://github.com/ubuntu
 It's theme is changing. I am working on arcmenu and dash-to-panel.
 It's now straight-out an ubuntu theme, but i am tweaking it to a more windows-like experience, but i am keeping the dock on the dock.
-You can download it on Sourceforge, i will post an link soon.
+
+download it on: https://mega.nz/file/6VMWwZyI#YzO2DyiUhCRFcmc1llU4Fyry6OX5r-tX0dPadCxP8Hc
 
 Succes!
