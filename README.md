@@ -1,5 +1,6 @@
 # Nextneon-Maklik
 This is still in beta testing. Do not use this as an daily driver.
+![im3](https://lh3.googleusercontent.com/pw/AP1GczOZIFHYkkY2wIHGM6dxPQO3UL_tmJfMml_tLZzuJ4Iy3quqoLaJpDBvqpKC4-mweGozhhs-JHyshCW2Lef12O7m6pCOSbjeQLXW7NDXARti2BFt2txsnRGdnujIgLTWvA-Som_2gPtpqxmWsvYDSz_y=w500-h500-s-no?authuser=0)
 
 <h1>Intro</h1>
 
@@ -14,8 +15,8 @@ Because i use an compression format which has results in really big iso's, you g
 For the real source (because i just changed things in the terminal) check out: https://github.com/ubuntu
 It's theme is changing. I am working on arcmenu and dash-to-panel.
 It's now straight-out an ubuntu theme, but i am tweaking it to a more windows-like experience, but i am keeping the dock on the dock.
-![alt text](https://lh3.googleusercontent.com/pw/AP1GczPRKlWq-vbU8St8J6sbwTbqqEoEWYnfAgnipkdCGUnlpHtKx1pkVbhWhtVFb5VkUV8vt1cJ97rK1TNyIrSGTUTswE6nDKmWyVajbf9vuUJJF4LFKKgAUbFZoQnHSFHKWz52kqIfzQ-ayx6Rc9GUPd7I=w1276-h797-s-no?authuser=0)
-![alt text](https://lh3.googleusercontent.com/pw/AP1GczP8U0eKK-A_ul24ahTZ1mrDqPmIns42VaTC7629nXq76AQkdnfuSavYJXZlIY69AGOrPrdb14JlaxkiwKO2AmV_6S0wyuMd6MaZAc0EN9DOTmxGde06qUdTTKiorMUYNkNzOTwefgKznrdnQwl9Lu59=w1279-h796-s-no?authuser=0)
+![im1](https://lh3.googleusercontent.com/pw/AP1GczPRKlWq-vbU8St8J6sbwTbqqEoEWYnfAgnipkdCGUnlpHtKx1pkVbhWhtVFb5VkUV8vt1cJ97rK1TNyIrSGTUTswE6nDKmWyVajbf9vuUJJF4LFKKgAUbFZoQnHSFHKWz52kqIfzQ-ayx6Rc9GUPd7I=w1276-h797-s-no?authuser=0)
+![im2](https://lh3.googleusercontent.com/pw/AP1GczP8U0eKK-A_ul24ahTZ1mrDqPmIns42VaTC7629nXq76AQkdnfuSavYJXZlIY69AGOrPrdb14JlaxkiwKO2AmV_6S0wyuMd6MaZAc0EN9DOTmxGde06qUdTTKiorMUYNkNzOTwefgKznrdnQwl9Lu59=w1279-h796-s-no?authuser=0)
 
 download it on: https://mega.nz/file/6VMWwZyI#YzO2DyiUhCRFcmc1llU4Fyry6OX5r-tX0dPadCxP8Hc
 
