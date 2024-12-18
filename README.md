@@ -49,7 +49,27 @@ Search for bios-mode and remember what stands there 'legacy' or 'uefi'.
 go to rufus.ie, download the latest version.
 Open the program (no install required) and Drag&drop the iso to rufus.
 Select a usb-stick, and select GPT if you had uefi where in the program we opened before, and select MBR if you had legacy before.
-Click the start button and wait.
+Click the start button and wait. after you see 'ready', it's done.
+After that, follow the steps from "after writing the usb"
+<h4>Linux</h4>
+Depending on your distro, you will need to install etcher.
+go to: https://github.com/balena-io/etcher/releases
+download your installation file. 
+First, open terminal. type in: uname -m.
+if you see as output X86 = x86, X86_64 = amd64 or aarch64 = arm64.
+Ubuntu, Debian, Linux mint, Zorin etc.: download the .deb file with x86 if the output was x86, the .deb file with amd64 if the output was x86_64 and the .deb file with arm64 if the output was aarch64.
+Fedora, Oracle linux, opensuse, PclinuxOS etc.: download the .rpm file with x86 if the output was x86, the .rpm file with amd64 if the output was x86_64 and the .rpm file with arm64 if the output was aarch64.
+Search on google if your distro has RPM or DEB, otherwise download the .appimage
+Install the file.
+Open the program, select the iso, select the usb drive, and click flash.
+After that's done, follow the steps from "after writing the usb"
+<h4>mac</h4>
+go to: https://github.com/balena-io/etcher/releases
+download the .dmg file and install it.
+Open the program.
+Open the program, select the iso, select the usb drive, and click flash.
+After that's done, follow the steps from "after writing the usb"
+<h3>After writing the usb.</h3>
 Reboot and press in one of this keys (maybe with an fn button):
 Acer: Del, F2 or F12
 Asus: F9 or esc
@@ -60,7 +80,7 @@ Samsung: F2
 (source: wikihow)
 Select: 'EFI: USB', Boot from usb-stick, EFI: <name of the usb stick here>
 Wait until it boots.
-You can try it out, or install it. For install, follow the next steps:
+You can try it out, or install it. For install, follow the next steps (for tryout you can just keep it like this, and reboot to your old operating system without things installed):
 Follow the steps in the installation program (hint: test the keyboard out before selecting it), and if you have some expensive hardware or so, check the box 'Install third-party programs and drivers for hardware' or something like that.
 When you are done, select restart.
 The computer will restart, but first shows a message 'please remove the installation media, then press enter' just press enter.
