@@ -19,4 +19,54 @@ It's now straight-out an ubuntu theme, but i am tweaking it to a more windows-li
 
 download it on: https://mega.nz/file/6VMWwZyI#YzO2DyiUhCRFcmc1llU4Fyry6OX5r-tX0dPadCxP8Hc
 
-Succes!
+<h1>Installation</h1>
+First, go to the link above. Download the iso file.
+<h2>VM (virtualbox/VMware workstation) Recommended</h2>
+This is a good option if you just wanna test it. 
+<h4>VMware or virtualbox?</h4>
+you can choose between vmware workstation and virtualbox.
+I am gonna choose for virtualbox, but feel free to use vmware workstation.
+Download virtualbox: https://www.virtualbox.org/wiki/Downloads
+Download VMware workstation: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion (Download workstation) (need an account, feel free to use another website to download the installer)
+Install the program you just downloaded.
+Click 'New'
+Give it a name, the folder can just stay the same, and click iso image, 'other', and select the iso image (often in Downloads)
+Select as OS type Linux, and as Version 'Ubuntu (64 bit)'. 
+<h5>Configure to virtual machine</h5>
+Configure with minimal 4GB of ram, 4 cpu's, Check the box of EFI, and select create new hard disk.
+After it's done, start the machine.
+Wait until it booted...
+Follow the steps in the installation program (hint: test the keyboard out before selecting it), and if you have some expensive hardware or so, check the box 'Install third-party programs and drivers for hardware' or something like that.
+When you are done, select restart.
+The computer will restart, but first shows a message 'please remove the installation media, then press enter' just press enter.
+Now you succesfully installed it.
+You can follow the introduction program at startup, but you can close it.
+
+<h2>Tryout or install on a usbstick</h2>
+<h4>Windows</h4>
+click the windows-button+r, and type 'msinfo32' and hit enter.
+Search for bios-mode and remember what stands there 'legacy' or 'uefi'.
+go to rufus.ie, download the latest version.
+Open the program (no install required) and Drag&drop the iso to rufus.
+Select a usb-stick, and select GPT if you had uefi where in the program we opened before, and select MBR if you had legacy before.
+Click the start button and wait.
+Reboot and press in one of this keys (maybe with an fn button):
+Acer: Del, F2 or F12
+Asus: F9 or esc
+Dell: F12
+HP: Esc or F10
+Lenovo: F1 or F2
+Samsung: F2
+(source: wikihow)
+Select: 'EFI: USB', Boot from usb-stick, EFI: <name of the usb stick here>
+Wait until it boots.
+You can try it out, or install it. For install, follow the next steps:
+Follow the steps in the installation program (hint: test the keyboard out before selecting it), and if you have some expensive hardware or so, check the box 'Install third-party programs and drivers for hardware' or something like that.
+When you are done, select restart.
+The computer will restart, but first shows a message 'please remove the installation media, then press enter' just press enter.
+Now you succesfully installed it.
+You can follow the introduction program at startup, but you can close it.
+
+
+
+Succes with installing and trying!
